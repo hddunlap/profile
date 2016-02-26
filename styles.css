@@ -151,8 +151,6 @@ header .profile-image:active {
 .card:hover,
 .container:hover {
   border-color: #ff008a;
-  background-color: #000;
-  color: #fff;
 }
 
 .pic-wrapper {
@@ -236,7 +234,7 @@ a.social:hover {
 }
 
 /* Styles for larger screens */
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 960px) {
   
 
 
